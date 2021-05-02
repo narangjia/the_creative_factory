@@ -1,0 +1,33 @@
+.product-details{
+	padding-top: 15px;
+	width: 350px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+.box-3{
+	display: inline-block;
+	margin-bottom: 30px;
+	margin-top: 0;
+	margin-left: auto;
+	margin-right: auto;
+	width: 350px;
+	text-align: center;
+}
+#relate-section{
+	margin-bottom: 30px;
+	margin-top: 0;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	width: 1060px;
+}
+#relate-heading3{
+	text-align: center;
+}
+#related-things{
+	text-align: center;
+}
+#related-2{
+	display: none;
+}

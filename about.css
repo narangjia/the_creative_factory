@@ -1,0 +1,38 @@
+.about-me{
+	/*padding-left:550px;*/
+	padding-top: 15px;
+	width: 350px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+#profile-photo {
+  	border-radius: 50%;
+}
+#heading{
+	/* padding-left: 25px;*/
+}
+#heading3{
+	/*padding-left: 25px;*/ 
+}
+#about-me-lines{
+	/*padding-right: 55px;*/
+}
+.box-2{
+	display: inline-block;
+	margin-bottom: 30px;
+	margin-top: 0;
+	margin-left: auto;
+	margin-right: auto;
+	width: 350px;
+	text-align: center;
+}
+#box-section{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1060px;
+}
+#heading-other-things{
+	text-align: center;
+}
+

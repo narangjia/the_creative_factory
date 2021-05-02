@@ -1,0 +1,13 @@
+.text-left{
+ 	text-align: left;
+}
+
+.font-dancing-script{
+	font-family: 'Dancing Script', cursive;
+}
+.font-size{
+	font-size: 50px;
+}
+.emoji-smily::after {
+  content: " 😊";
+}

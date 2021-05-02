@@ -1,0 +1,25 @@
+body {
+	margin: 0;
+}
+#header{
+	background-color: black;
+	color: white;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+#header-title {
+	font-size: 32px;
+	display: inline;
+}
+.header-link{
+	color: white;
+	margin: 5px;
+	text-decoration: none;
+}
+#header-links-section{
+	display: inline;
+	float: right;
+	padding-top: 8px;
+}

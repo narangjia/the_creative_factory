@@ -1,0 +1,16 @@
+
+.box{
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+	margin-bottom: 30px;
+	text-align: center;
+	width: 350px;
+}
+#box-section{
+	width: 1060px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+}

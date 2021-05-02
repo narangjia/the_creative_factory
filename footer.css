@@ -1,0 +1,23 @@
+#footer{
+	background-color: #367588;
+	color: white;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+.footer-link{
+	color: white;
+	margin: 5px;
+	text-decoration: none;
+}
+#footer-links-section{
+	display: inline;
+	float: right;
+	padding-top: 8px;
+}
+#footer-title {
+	font-size: 32px;
+	display: inline;
+	text-decoration: none;
+}
