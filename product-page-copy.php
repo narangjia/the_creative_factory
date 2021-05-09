@@ -6,7 +6,7 @@
 	$id = $_GET['id'];
 	$product_1=[
 		'id' => 1,
-		'name' =>"Resin tray with peach, golden and white base <br> Rs.650",
+		'name' =>"Resin tray with peach, golden and white base <br> ₹650",
 		'image' => "images/tray.jpg",
 		'description' => "This is a single piece tray exclusively designed for  special ocassions anywhere.
 				<br>
@@ -15,7 +15,7 @@
 	];
 	$product_2=[
 		'id' => 2 ,
-		'name' =>"Resin popsocket with white, golden,<br> black marbel affect <br> Rs.80.",
+		'name' =>"Resin popsocket with white, golden,<br> black marbel affect <br> ₹80.",
 		'image' => "images/popsocket.jpg",
 		'description' =>  "This is a single popsocket with a marble design on it with colours white, golden and black.
 				<br>
@@ -25,7 +25,7 @@
 	
 	$product_3=[
 		'id' => 3 ,
-		'name' => "Coasters and ringplatter combo.<br>Rs.500",
+		'name' => "Coasters and ringplatter combo.<br>₹500",
 		'image' => "images/coasters-and-ringplatter.jpg",
 		'description' =>  "This is a combo of four coasters<br>and a ringplatter which is a very unique/useful combo with which you<br>can have and indian traditional look to your house.
 				<br>
@@ -42,9 +42,9 @@
 		$related_items = [
 			'related-item-1-name' => $product_2['name'],
 			'related-item-1-image' => $product_2['image'],
-			'related-item-2-name' => "Colourful diya with beatiful pop up art.<br>Rs.100",
+			'related-item-2-name' => "Colourful diya with beatiful pop up art.<br>₹100",
 			'related-item-2-image' => "images/diya-colourful.jpg",
-			'related-item-3-name' => "Coasters and ringplatter combo.<br>Rs.500",
+			'related-item-3-name' => "Coasters and ringplatter combo.<br>₹500",
 			'related-item-3-image' => "images/coasters-and-ringplatter.jpg"
 		];
 	}
@@ -60,9 +60,9 @@
 			$related_items = [
 			'related-item-1-name' => $product_1['name'],
 			'related-item-1-image' => $product_1['image'],
-			'related-item-2-name' => "Colourful diya with beatiful pop up art.<br>Rs.100",
+			'related-item-2-name' => "Colourful diya with beatiful pop up art.<br>₹100",
 			'related-item-2-image' => "images/diya-colourful.jpg",
-			'related-item-3-name' => "Coasters and ringplatter combo.<br>Rs.500",
+			'related-item-3-name' => "Coasters and ringplatter combo.<br>₹500",
 			'related-item-3-image' => "images/coasters-and-ringplatter.jpg"
 		];
 	}
@@ -77,7 +77,7 @@
 		$related_items = [
 			'related-item-1-name' => $product_1['name'],
 			'related-item-1-image' => $product_1['image'],
-			'related-item-2-name' => "Colourful diya with beatiful pop up art.<br>Rs.100",
+			'related-item-2-name' => "Colourful diya with beatiful pop up art.<br>₹100",
 			'related-item-2-image' => "images/diya-colourful.jpg",
 			'related-item-3-name' => $product_2['name'],
 			'related-item-3-image' => $product_2['image'],
@@ -94,9 +94,9 @@
 		$related_items = [
 			'related-item-1-name' => $product_1['name'],
 			'related-item-1-image' => $product_1['image'],
-			'related-item-2-name' => "Peacock shaped diya with multicolour taracotta.<br>Rs.150",
+			'related-item-2-name' => "Peacock shaped diya with multicolour taracotta.<br>₹150",
 			'related-item-2-image' => "images/diya-colourful.jpg",
-			'related-item-3-name' => "Coasters and ringplatter combo.<br>Rs.500",
+			'related-item-3-name' => "Coasters and ringplatter combo.<br>₹500",
 			'related-item-3-image' => "images/coasters-and-ringplatter.jpg"
 		];
 	}
@@ -112,9 +112,9 @@
 		$related_items = [
 			'related-item-1-name' =>$product_1['name'],
 			'related-item-1-image' => $product_1['image'],
-			'related-item-2-name' => "Set of 8 basic diyas.<br>Rs.450",
+			'related-item-2-name' => "Set of 8 basic diyas.<br>₹450",
 			'related-item-2-image' => "images/diya-multiple.jpg",
-			'related-item-3-name' => "Coasters and ringplatter combo.<br>Rs.500",
+			'related-item-3-name' => "Coasters and ringplatter combo.<br>₹500",
 			'related-item-3-image' => "images/coasters-and-ringplatter.jpg"
 		];
 	}
@@ -129,9 +129,9 @@
 		$related_items = [
 			'related-item-1-name' => $product_1['name'],
 			'related-item-1-image' => $product_1['image'],
-			'related-item-2-name' => "Colourful diya with beatiful pop up art.<br>Rs.100",
+			'related-item-2-name' => "Colourful diya with beatiful pop up art.<br>₹100",
 			'related-item-2-image' => "images/diya-colourful.jpg",
-			'related-item-3-name' => "Coasters and ringplatter combo.<br>Rs.500",
+			'related-item-3-name' => "Coasters and ringplatter combo.<br>₹500",
 			'related-item-3-image' => "images/coasters-and-ringplatter.jpg"
 		];
 	}
