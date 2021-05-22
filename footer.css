@@ -1,8 +1,8 @@
 #footer{
-	background-color: #367588;
+	background-color: #FAF9F7;
 	color: white;
-	padding-top: 15px;
-	padding-bottom: 15px;
+	padding-top: 30px;
+	padding-bottom: 30px;
 	padding-right: 15px;
 	padding-left: 15px;
 }
@@ -20,4 +20,21 @@
 	font-size: 32px;
 	display: inline;
 	text-decoration: none;
+	color: black;
+}
+i{
+	font-size: 24px;
+	color: #666666;
+}
+.bi-facebook:hover {
+color: #4267B2;
+}
+.bi-instagram:hover {
+color: #8a3ab9;
+}
+.bi-linkedin:hover {
+color: #0077b5;
+}
+.bi-twitter:hover {
+color: #1DA1F2;
 }

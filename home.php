@@ -5,7 +5,7 @@ require 'header.php';
 	<div id="box-section">
 		<div class="box">
 			<div class="card" style="width: 15rem;">
-				  <img id="tray-icon" src="images/tray.jpg" class="card-img-top" alt="tray"  width="200">
+				  <img id="tray-icon" src="images/tray-new.jpg" class="card-img-top" alt="tray"  width="200">
 				  <div class="card-body">
 				    <h5 class="card-title">Resin tray with peach, golden and white base</h5>
 				    <p class="card-text">₹650</p>
@@ -15,7 +15,7 @@ require 'header.php';
 		</div>	
 		<div class="box">
 		<div class="card" style="width: 15rem;">
-				<img id="popsocket-icon" src="images/popsocket.jpg" class="card-img-top" width="200">
+				<img id="popsocket-icon" src="images/popsocket-new.jpg" class="card-img-top" width="200">
 				  <div class="card-body">
 				    <h5 class="card-title">Resin popsocket with white, golden,<br> black marbel affect.</h5>
 				    <p class="card-text">₹80</p>
@@ -25,7 +25,7 @@ require 'header.php';
 		</div>
 		<div class="box">
 			<div class="card" style="width: 15rem;">
-				<img id="coasters-and-ringplatter-icon" src="images/coasters-and-ringplatter.jpg" class="card-img-top" width="200">
+				<img id="coasters-and-ringplatter-icon" src="images/coasters-and-ringplatter-new.jpg" class="card-img-top" width="200">
 			  <div class="card-body">
 			    <h5 class="card-title">Coasters and ringplatter combo.</h5>
 			    <p class="card-text">₹500</p>

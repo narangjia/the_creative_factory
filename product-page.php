@@ -8,7 +8,7 @@
 	$product_1=[
 		'id' => 1,
 		'name' =>"Resin tray with peach, golden and white base <br> Rs.650",
-		'image' => "images/tray.jpg",
+		'image' => "images/tray-new.jpg",
 		'description' => "This is a single piece tray exclusively designed for  special ocassions anywhere.
 				<br>
 			and it is a very partyish."
@@ -18,7 +18,7 @@
 		$product_2=[
 		'id' => 2 ,
 		'name' =>"Resin popsocket with white, golden,<br> black marbel affect <br> Rs.80.",
-		'image' => "images/popsocket.jpg",
+		'image' => "images/popsocket-new.jpg",
 		'description' =>  "This is a single popsocket with a marble design on it with colours white, golden and black.
 				<br>
 			and it is specially designed for wearing on your phone with traditional wear."
@@ -28,7 +28,7 @@
 	$product_3=[
 		'id' => 3 ,
 		'name' => "Coasters and ringplatter combo.<br>Rs.500",
-		'image' => "images/coasters-and-ringplatter.jpg",
+		'image' => "images/coasters-and-ringplatter-new.jpg",
 		'description' =>  "This is a combo of four coasters<br>and a ringplatter which is a very unique/useful combo with which you<br>can have and indian traditional look to your house.
 				<br>
 			and they are full of uniqueness."

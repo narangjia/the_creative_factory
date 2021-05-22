@@ -5,3 +5,10 @@ h1{
 .col{
 	font-size: 22px;
 }
+.mailto{
+	text-decoration:none;
+	color: black;
+}
+.mailto:hover {
+  color: black;
+}
