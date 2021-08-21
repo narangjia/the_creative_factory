@@ -2,16 +2,10 @@
 	echo "list of remainders <br>";
 	$outer_loop_count = 0;
 	$inner_loop_count = 0;
-	for ($number= 2; $number < 50; $number++) {
+	for ($number= 3; $number < 50; $number = $number + 2) {
 		$outer_loop_count++;
-		if ($number % 2 == 0) { 
-				$prime = false; 
-			}
-		if ($number % 2 == 0){
-  			 continue; 
-  		}
 		$prime = true;
-		for ($divider=2; $divider < $number / 2; $divider++) {
+		for ($divider=3; $divider < $number / 2; $divider = $divider + 2) {
 		 	$inner_loop_count++;
 		 	if ($number % $divider == 0) { 
 				$prime = false; 

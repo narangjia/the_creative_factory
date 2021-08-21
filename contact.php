@@ -15,7 +15,7 @@ require 'header.php';
 <div class="container">
   <div class="row">
     <div class="col">
-      Gurgaon
+      <u>Gurgaon</u>
       <br>
       F-61, Suncity Road
 		<br>
@@ -32,7 +32,7 @@ require 'header.php';
 
     </div>
     <div class="col">
-      Tehri
+      <u>Tehri</u>
       <br>
       Incubation Office, Room No. 16,
 			<br>
